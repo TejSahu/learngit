@@ -1,5 +1,5 @@
 #!/bin/bash
-/bin/rm <location>
+/bin/rm <location> #to remove old generated file
 file=<files containing list of folders>
 
 while read -r line
